@@ -1,8 +1,8 @@
 # Rate making-Brazil
 
--https://towardsdatascience.com/lets-do-neural-networks-d849d80fd012
--https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3226852
--https://www.actuarialdatascience.org/ADS-Tutorials/
+- https://towardsdatascience.com/lets-do-neural-networks-d849d80fd012
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3226852
+- https://www.actuarialdatascience.org/ADS-Tutorials/
 
 ---
 
